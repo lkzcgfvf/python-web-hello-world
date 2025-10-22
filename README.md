@@ -8,6 +8,6 @@ git clone https://github.com/lkzcgfvf/python-web-hello-world.git
 cd python-web-hello-world
 pip3 install -r requirements.txt
 python3 app.py
-```bash
+```
 
 3. After that you should be able open http://127.0.0.1:5000 or http://{your_IP_here}:5000 in browser and see "Hello, world"
