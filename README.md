@@ -14,4 +14,4 @@ python3 app.py
 
 ```
 
-3. After that you should be able open http://127.0.0.1:5000 or http://{your_IP_here}:5000 in browser and see "Hello, world"
+3. After that you should be able to open http://127.0.0.1:5000 or http://{your_IP_here}:5000 in browser and see "Hello, world"
