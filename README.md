@@ -1,6 +1,7 @@
 # python-web-hello-world
 simple web app in Python 
-to run app
+
+Steps to run app
 1. Make sure that you have Git, Python3 and Pip installed
 2. Run these commands
 ```bash
